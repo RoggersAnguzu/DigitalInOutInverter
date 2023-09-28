@@ -37,7 +37,6 @@ The Arduino sketch provided reads the state of the digital input (pin 3), which 
 1. Connect the components according to the circuit diagram.
 2. Connect your Arduino board to your computer using a USB cable.
 3. Open the Arduino IDE on your computer.
-4. Upload the provided sketch (`digital_inout_inverter.ino`) to your Arduino board.
 
 ## Usage
 
